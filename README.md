@@ -46,6 +46,27 @@ This repository contains code for processing the Waymo dataset to detect objects
 2. Run the main script.
 3. The program will process LiDAR data and camera images from the Waymo dataset, detect objects, and generate control signals.
 
+
+## Timeline of work
+
+- **Jan 1st week and 2nd week**: Introduction to projects ongoing in DITECT lab and finalizing project with Zhaobin.
+
+- **Feb all 4 weeks**: Understanding data distillation and data condensation, coding for it with extensive literature survey, and understanding the complex mathematics involved.
+
+- **March 1st week**: Understanding Waymo dataset for autonomous navigation.
+
+- **March 2nd week**: Spring break.
+
+- **March 3rd week**: Understanding Waymo dataset, visualizing it, and literature survey for it.
+
+- **April all 4 weeks**: Control signal generation from frames in the Waymo dataset and solving GCP dataloader issue for high volume data.
+
+- **May 1st week**: Finals week and report making with making the code modular.
+
+- **May 2nd week**: Final report.
+
+
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
