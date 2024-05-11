@@ -26,7 +26,7 @@ This repository contains code for processing the Waymo dataset to detect objects
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Apurva3509/Deep-Learning-CE.git
+    git clone https://github.com/Apurva3509/CEEM-Research.git
     ```
 
 2. Install dependencies:
