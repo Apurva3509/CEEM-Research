@@ -47,23 +47,32 @@ This repository contains code for processing the Waymo dataset to detect objects
 3. The program will process LiDAR data and camera images from the Waymo dataset, detect objects, and generate control signals.
 
 
-## Timeline of work
+## Project Timeline
 
-- **Jan 1st week and 2nd week**: Introduction to projects ongoing in DITECT lab and finalizing project with Zhaobin.
+### January
 
-- **Feb all 4 weeks**: Understanding data distillation and data condensation, coding for it with extensive literature survey, and understanding the complex mathematics involved.
+- **Week 1-2**: Introduction to ongoing projects in DITECT lab. Finalize project scope and objectives with Zhaobin.
 
-- **March 1st week**: Understanding Waymo dataset for autonomous navigation.
+### February
 
-- **March 2nd week**: Spring break.
+- **Weeks 1-4**: Dive deep into understanding data distillation and condensation techniques. Conduct extensive literature review to grasp the underlying mathematical concepts. Begin coding implementation.
 
-- **March 3rd week**: Understanding Waymo dataset, visualizing it, and literature survey for it.
+### March
 
-- **April all 4 weeks**: Control signal generation from frames in the Waymo dataset and solving GCP dataloader issue for high volume data.
+- **Week 1**: Explore the Waymo dataset for autonomous navigation, gaining insights into its structure and contents.
+- **Week 3**: Dive deeper into the Waymo dataset, focusing on visualization and further literature review. 
 
-- **May 1st week**: Finals week and report making with making the code modular.
+### April
 
-- **May 2nd week**: Final report.
+- **All Weeks**: Implement control signal generation algorithms using Waymo dataset frames. Address any challenges, including resolving GCP dataloader issues for handling large data volumes.
+
+### May
+
+- **Week 1**: Focus on final exams and report preparation. Ensure code modularity and documentation.
+- **Week 2**: Finalize the project report, summarizing findings, methodologies, and outcomes.
+
+This structured timeline delineates each month's activities, ensuring a comprehensive understanding of tasks and milestones throughout the project duration.
+
 
 
 
