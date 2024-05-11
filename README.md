@@ -74,6 +74,29 @@ This repository contains code for processing the Waymo dataset to detect objects
 This structured timeline delineates each month's activities, ensuring a comprehensive understanding of tasks and milestones throughout the project duration.
 
 
+## Future Work
+
+While the current implementation focuses on generating control signals based on static frames from the Waymo dataset, future work could explore the possibility of incorporating multiple frames to better capture the complexities of the vehicle's surroundings. This enhancement could provide more comprehensive information about dynamic changes in the environment, such as moving objects, changing road conditions, and varying traffic patterns.
+
+### Utilizing Temporal Information
+
+By leveraging multiple consecutive frames, the system could analyze the temporal evolution of the scene, allowing for better prediction and understanding of the vehicle's immediate surroundings. This approach could enhance the robustness and accuracy of the control signal generation process, especially in dynamic and rapidly changing scenarios.
+
+### Integration of Motion Estimation Techniques
+
+Incorporating motion estimation techniques could further improve the system's ability to track moving objects and anticipate their future trajectories. Techniques such as optical flow analysis and Kalman filtering could be utilized to estimate the motion of objects across frames, enabling more precise control signal generation.
+
+### Deep Learning-based Approaches
+
+Deep learning models, such as recurrent neural networks (RNNs) and convolutional neural networks (CNNs), could be employed to process sequential frames and extract relevant spatiotemporal features. These models have shown promising results in various computer vision tasks, including object detection and motion prediction, and could be adapted to enhance control signal generation in autonomous vehicles.
+
+### Real-time Implementation and Testing
+
+Once developed, the enhanced system should undergo rigorous testing and validation in real-world scenarios. This would involve deploying the system in simulated and on-road environments to evaluate its performance under diverse conditions and validate its effectiveness in improving autonomous vehicle navigation and decision-making.
+
+Incorporating multiple frames into the control signal generation process represents an exciting avenue for future research, offering the potential to enhance the safety, efficiency, and autonomy of self-driving vehicles in complex real-world environments.
+
+
 
 
 ## Contributing
